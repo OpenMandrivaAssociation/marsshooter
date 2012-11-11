@@ -1,0 +1,12 @@
+diff -rupN marsshooter-0.7.4/CMakeLists.txt marsshooter-0.7.4_mod/CMakeLists.txt
+--- marsshooter-0.7.4/CMakeLists.txt	2011-05-29 17:41:37.000000000 +0200
++++ marsshooter-0.7.4_mod/CMakeLists.txt	2011-10-21 01:23:26.773558446 +0200
+@@ -7,7 +7,7 @@
+ # version number
+ set(mars_MAJOR 0)
+ set(mars_MINOR 7)
+-set(mars_PATCH 2)
++set(mars_PATCH 4)
+ set(mars_VERSION ${mars_MAJOR}.${mars_MINOR}.${mars_PATCH})
+ set(mars_DESCRIPTION "M.A.R.S. - a ridiculous Shooter")
+ set(mars_HOMEPAGE "http://www.marsshooter.org")
