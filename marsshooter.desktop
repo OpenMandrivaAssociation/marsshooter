@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=M.A.R.S.
+Comment=A Ridiculous Shooter
+Icon=marsshooter
+Exec=marsshooter
+Terminal=false
+Categories=Game;ArcadeGame;

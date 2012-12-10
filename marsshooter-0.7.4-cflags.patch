@@ -1,0 +1,11 @@
+diff -urN mars-game/CMakeLists.txt mars-game-patched/CMakeLists.txt
+--- mars-game/CMakeLists.txt	2012-11-15 23:33:45.698028714 +1100
++++ mars-game-patched/CMakeLists.txt	2012-11-15 23:34:27.049601244 +1100
+@@ -63,7 +63,6 @@
+ #####################################################################
+ 
+ # compile source
+-set(CMAKE_CXX_FLAGS "-s -O2")
+  add_subdirectory(src) 
+  
+ #####################################################################
