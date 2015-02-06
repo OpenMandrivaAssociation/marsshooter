@@ -1,6 +1,6 @@
 Name:		marsshooter
 Version:	0.7.4
-Release:	3
+Release:	4
 License:	GPLv3
 Summary:	M.A.R.S. - A Ridiculous Shooter
 Url:		http://mars-game.sourceforge.net/
