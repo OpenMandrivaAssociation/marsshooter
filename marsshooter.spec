@@ -3,7 +3,7 @@ Version:	0.7.4
 Release:	4
 License:	GPLv3
 Summary:	M.A.R.S. - A Ridiculous Shooter
-Url:		http://mars-game.sourceforge.net/
+Url:		https://mars-game.sourceforge.net/
 Group:		Games/Arcade
 Source0:	http://sourceforge.net/projects/mars-game/files/mars_source_%{version}.tar.gz
 Source1:	%{name}.desktop
